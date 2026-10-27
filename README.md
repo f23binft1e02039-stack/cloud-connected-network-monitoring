@@ -1,4 +1,4 @@
-# Final Year Project Proposal
+# Final Year Project 
 
 ## 1. Project Title
 
